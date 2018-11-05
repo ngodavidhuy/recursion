@@ -20,10 +20,6 @@ var getElementsByClassName = function(className
       }
     }
   };
-
-  // for (let i = 0; i < body.childNodes.length; i++) {
-    
-  // }
   
   helper(body);
   
